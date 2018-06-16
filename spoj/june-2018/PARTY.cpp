@@ -30,7 +30,7 @@ int main() {
 
     while (scanf("%d %d", &bud, &n), bud != 0 && n != 0) {
 
-        int fee[n], fun[n], dp[bud][n];
+        int fee[n], fun[n];
 
         for (int i = 0; i < n; i++)
             scanf("%d %d", &fee[i], &fun[i]);
