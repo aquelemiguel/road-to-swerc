@@ -3,7 +3,7 @@ Repository to hold personal competitive programming exercise solutions from plac
 
 ## Dynamic Programming
 * [**DBALLZ**](https://www.spoj.com/problems/DBALLZ/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/june-2018/DBALLZ.cpp))  
-A simple unbounded knapsack problem, since it allows item repetition. Beware, SPOJ toolkit yields incorrect results.
+A simple unbounded knapsack problem, since it allows item repetition. The distraction times are weights and the time spans are the values. *Beware, as SPOJ toolkit yields incorrect results.*
 
 * [**PARTY**](http://www.spoj.com/problems/PARTY/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/tree/master/spoj/june-2018/PARTY.cpp))  
 A simple 0/1 knapsack problem where the parties' fees are weights and their fun are the values.
