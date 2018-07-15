@@ -47,6 +47,9 @@ Use the two pointers technique, but since we need to find triplets, fix pointer 
 * [**CANDY**](https://www.spoj.com/problems/CANDY/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/june-2018/CANDY.cpp))  
 For each bag which is below average, add a movement because a candy must be moved from a bigger bag.
 
+* [**CANTON**](https://www.spoj.com/problems/CANTON/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/CANTON.cpp))  
+I'm actually mad at myself for taking this much time to solve this one coupled with the fact that I got WA after submitting code with debug logs. I will erase any knowledge of this code from my brain after I go to bed today. Think triangular numbers. I didn't but you should, so you can avoid this mess of a code I wrote.
+
 * [**HANGOVER**](https://www.spoj.com/problems/HANGOVER/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/june-2018/HANGOVER.cpp))  
 Keep adding cards from top to bottom until the overhang exceeds the input.
 
