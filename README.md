@@ -36,11 +36,18 @@ Repository to hold personal competitive programming exercise solutions from plac
 * [**HACKRNDM**](https://www.spoj.com/problems/HACKRNDM/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/HACKRNDM.cpp))  
 ***Tags:** binary-search, two-pointers-technique*
 
+* [**NOTATRI**](https://www.spoj.com/problems/NOTATRI/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/NOTATRI.cpp))  
+***Tags:** binary-search, two-pointers-technique*
+
 * [**OPCPIZZA**](https://www.spoj.com/problems/OPCPIZZA/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/OPCPIZZA.cpp))  
 ***Tags:** binary-search, two-pointers-technique*
 
 * [**PIHU1**](https://www.spoj.com/problems/PIHU1/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/PIHU1.cpp))  
 ***Tags:** binary-search, three-pointers-technique*
+
+## Number Theory
+* [**TWOSQRS**](https://www.spoj.com/problems/TWOSQRS/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/TWOSQRS.cpp))  
+***Tags:** fermat-theorem, sum-of-two-squares-theorem, prime-decomposition*
 
 ## Ad-hoc
 * [**CANDY**](https://www.spoj.com/problems/CANDY/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/june-2018/CANDY.cpp))  
