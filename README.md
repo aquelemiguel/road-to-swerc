@@ -14,6 +14,9 @@ Repository to hold personal competitive programming exercise solutions from plac
 * [**DBALLZ**](https://www.spoj.com/problems/DBALLZ/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/june-2018/DBALLZ.cpp))  
 ***Tags:** dp, unbounded-knapsack, bottom-up*
 
+* [**DCEPC501**](https://www.spoj.com/problems/DCEPC501/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/DCEPC501.cpp))  
+***Tags:** dp, memoization*
+
 * [**FARIDA**](https://www.spoj.com/problems/FARIDA/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/FARIDA.cpp))  
 ***Tags:** dp, memoization*
 
@@ -28,6 +31,10 @@ Repository to hold personal competitive programming exercise solutions from plac
 
 * [**WPC4F**](https://www.spoj.com/problems/WPC4F/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/WPC4F.cpp))  
 ***Tags:** dp, bottom-up*
+
+## Graph Theory
+* [**CAM5**](https://www.spoj.com/problems/CAM5/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/CAM5.cpp))  
+***Tags:** undirected-graph, dfs, connected-components*
 
 ## Binary Search
 * [**AGGRCOW**](https://www.spoj.com/problems/AGGRCOW/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/june-2018/AGGRCOW.cpp))  
@@ -46,10 +53,20 @@ Repository to hold personal competitive programming exercise solutions from plac
 ***Tags:** binary-search, three-pointers-technique*
 
 ## Number Theory
+* [**AMR11E**](https://www.spoj.com/problems/AMR11E/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/AMR11E.cpp))  
+***Tags:** sieve-of-eratosthenes, smart-numbers*
+
 * [**TWOSQRS**](https://www.spoj.com/problems/TWOSQRS/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/TWOSQRS.cpp))  
 ***Tags:** fermat-theorem, sum-of-two-squares-theorem, prime-decomposition*
 
+## Game Theory
+* [**SHAKTI**](https://www.spoj.com/problems/SHAKTI/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/SHAKTI.cpp))  
+***Tags:** none*
+
 ## Ad-hoc
+* [**BYTESE2**](https://www.spoj.com/problems/BYTESE2/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/july-2018/BYTESE2.cpp))  
+***Tags:** none*
+
 * [**CANDY**](https://www.spoj.com/problems/CANDY/) ([Solution](https://github.com/aquelemiguel/road-to-swerc/blob/master/spoj/june-2018/CANDY.cpp))  
 ***Tags:** none*
 
